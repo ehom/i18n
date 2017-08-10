@@ -28,7 +28,10 @@ var FakeText = {
     var arrChars = strText.split('');
     
     return {
-      accent: function() {
+      accent: function(a) {
+        if (typeof a === 'undefined' || !a) {
+          return this;
+        }
         arrChars = arrChars.map(function(item) {
           if (FakeText.charMap[item]) {
             item = FakeText.charMap[item];
