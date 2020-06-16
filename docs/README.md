@@ -13,11 +13,13 @@
 
 [unicode.org][9]
 
-[ICU][10] (International Character Utilities)
+[ICU][10]
+> International Character Utilities
 
 ICU Locale [Explorer][3]
 
-Common Locale Data Repository ([CLDR][8])
+[CLDR][8] 
+> Common Locale Data Repository
 
 PyICU ([Python ICU](https://pypi.org/project/PyICU/))
 
