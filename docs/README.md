@@ -7,22 +7,25 @@
 [7]: https://ecma-international.org/ecma-402/
 [8]: http://cldr.unicode.org/
 [9]: https://home.unicode.org/
+[10]: http://site.icu-project.org/
 
 [An Introduction to Writing Systems & Unicode][5]
 
 [unicode.org][9]
 
+[ICU][10] (International Character Utilities)
+
 [ICU Locale Explorer][3]
 
 Common Locale Data Repo ([CLDR][8])
-
-[Google][4] Internationalization
 
 PyICU ([Python ICU](https://pypi.org/project/PyICU/))
 
 Intl JavaScript ([MDN][6])
 
 [ECMA 402][7]
+
+[Google][4] Internationalization
 
 Accept-Language used for locale setting ([W3C i18n](https://www.w3.org/International/questions/qa-accept-lang-locales.en))
 
