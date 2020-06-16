@@ -3,6 +3,7 @@
 [5]: https://r12a.github.io/scripts/tutorial/
 [3]: https://icu4c-demos-7hxm2n5zgq-uc.a.run.app/icu-bin/locexp
 [4]: https://developers.google.com/international/
+[6]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl
 
 [An Introduction to Writing Systems & Unicode][5]
 
@@ -11,6 +12,8 @@
 [Google][4] Internationalization
 
 PyICU ([Python ICU](https://pypi.org/project/PyICU/))
+
+Intl JavaScript ([MDN][6])
 
 Accept-Language used for locale setting ([W3C i18n](https://www.w3.org/International/questions/qa-accept-lang-locales.en))
 
