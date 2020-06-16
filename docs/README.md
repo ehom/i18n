@@ -45,4 +45,4 @@ Colors in Cultures ([Information is Beautiful][1])
 IBAN [Country Currency Codes](https://www.iban.com/currency-codes)
 
 
----
+🌐
