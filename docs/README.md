@@ -2,7 +2,7 @@
 [2]: https://globalbydesign.com/
 
 
-[Information is Beautiful][1]
+Colors in Cultures ([Information is Beautiful][1])
 
 [Global by Design][2]
 
