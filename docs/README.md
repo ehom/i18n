@@ -8,6 +8,7 @@
 [8]: http://cldr.unicode.org/
 [9]: https://home.unicode.org/
 [10]: http://site.icu-project.org/
+[11]: https://nodejs.org/api/intl.html
 
 [An Introduction to Writing Systems & Unicode][5]
 
@@ -24,6 +25,8 @@ ICU Locale [Explorer][3]
 PyICU ([Python ICU](https://pypi.org/project/PyICU/))
 
 Intl JavaScript ([MDN][6])
+
+Intl Support in [Node.js][11]
 
 [ECMA 402][7]
 
