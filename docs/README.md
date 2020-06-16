@@ -10,6 +10,8 @@
 
 [Google][4] Internationalization
 
+PyICU ([Python ICU](https://pypi.org/project/PyICU/))
+
 :globe_with_meridians:
 
 Colors in Cultures ([Information is Beautiful][1])
