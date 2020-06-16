@@ -9,6 +9,7 @@
 [9]: https://home.unicode.org/
 [10]: http://site.icu-project.org/
 [11]: https://nodejs.org/api/intl.html
+[12]: https://docs.microsoft.com/en-us/globalization/
 
 [An Introduction to Writing Systems & Unicode][5]
 
@@ -32,9 +33,13 @@ Intl Support in [Node.js][11]
 
 [ECMA 402][7]
 
+Accept-Language used for locale setting ([W3C i18n](https://www.w3.org/International/questions/qa-accept-lang-locales.en))
+
+
 [Google][4] Internationalization
 
-Accept-Language used for locale setting ([W3C i18n](https://www.w3.org/International/questions/qa-accept-lang-locales.en))
+[Microsoft][12] Globalization
+
 
 🌐
 
