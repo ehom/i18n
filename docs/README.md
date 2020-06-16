@@ -5,10 +5,13 @@
 [4]: https://developers.google.com/international/
 [6]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl
 [7]: https://ecma-international.org/ecma-402/
+[8]: https://cldr.icu-project.org/
 
 [An Introduction to Writing Systems & Unicode][5]
 
 [ICU Locale Explorer][3]
+
+Common Locale Data Repo ([CLDR][8])
 
 [Google][4] Internationalization
 
