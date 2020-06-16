@@ -15,9 +15,9 @@
 
 [ICU][10] (International Character Utilities)
 
-[ICU Locale Explorer][3]
+ICU Locale [Explorer][3]
 
-Common Locale Data Repo ([CLDR][8])
+Common Locale Data Repository ([CLDR][8])
 
 PyICU ([Python ICU](https://pypi.org/project/PyICU/))
 
