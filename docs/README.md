@@ -12,6 +12,8 @@
 
 PyICU ([Python ICU](https://pypi.org/project/PyICU/))
 
+Accept-Language used for locale setting ([W3C i18n](https://www.w3.org/International/questions/qa-accept-lang-locales.en))
+
 🌐
 
 Colors in Cultures ([Information is Beautiful][1])
