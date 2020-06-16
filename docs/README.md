@@ -4,7 +4,7 @@
 
 [An Introduction to Writing Systems & Unicode][5]
 
-----
+:globe_with_meridians:
 
 Colors in Cultures ([Information is Beautiful][1])
 
