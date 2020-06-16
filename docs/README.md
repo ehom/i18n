@@ -5,9 +5,12 @@
 [4]: https://developers.google.com/international/
 [6]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl
 [7]: https://ecma-international.org/ecma-402/
-[8]: https://cldr.icu-project.org/
+[8]: http://cldr.unicode.org/
+[9]: https://home.unicode.org/
 
 [An Introduction to Writing Systems & Unicode][5]
+
+[unicode.org][9]
 
 [ICU Locale Explorer][3]
 
