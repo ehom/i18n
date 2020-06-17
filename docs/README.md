@@ -10,6 +10,8 @@
 [10]: http://site.icu-project.org/
 [11]: https://nodejs.org/api/intl.html
 [12]: https://docs.microsoft.com/en-us/globalization/
+[13]: https://www.w3.org/International/questions/qa-accept-lang-locales.en
+[i18next]: https://www.i18next.com/
 
 [An Introduction to Writing Systems & Unicode][5]
 
@@ -33,8 +35,9 @@ Intl Support in [Node.js][11]
 
 [ECMA 402][7]
 
-Accept-Language used for locale setting ([W3C i18n](https://www.w3.org/International/questions/qa-accept-lang-locales.en))
+Accept-Language used for locale setting ([W3C i18n][13])
 
+[I18next][i18next] is an internationalization-framework written in and for JavaScript. 
 
 [Google][4] Internationalization
 
