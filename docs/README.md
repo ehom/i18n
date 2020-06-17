@@ -5,11 +5,11 @@
 [4]: https://developers.google.com/international/
 [6]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl
 [7]: https://ecma-international.org/ecma-402/
-[8]: http://cldr.unicode.org/
+[cldr]: http://cldr.unicode.org/
 [9]: https://home.unicode.org/
 [10]: http://site.icu-project.org/
 [11]: https://nodejs.org/api/intl.html
-[12]: https://docs.microsoft.com/en-us/globalization/
+[ms-g11n]: https://docs.microsoft.com/en-us/globalization/
 [13]: https://www.w3.org/International/questions/qa-accept-lang-locales.en
 [i18next]: https://www.i18next.com/
 
@@ -25,7 +25,7 @@ ICU Locale [Explorer][3]
 [CLDR][8] 
 > Common Locale Data Repository
 
-CLDR [Survey Tool](http://cldr.unicode.org/index/survey-tool)
+CLDR [Survey Tool][cldr]
 
 PyICU ([Python ICU](https://pypi.org/project/PyICU/))
 
@@ -37,11 +37,11 @@ Intl Support in [Node.js][11]
 
 Accept-Language used for locale setting ([W3C i18n][13])
 
-[I18next][i18next] is an internationalization-framework written in and for JavaScript. 
+[i18next][i18next] is an internationalization-framework written in and for JavaScript. 
 
 [Google][4] Internationalization
 
-[Microsoft][12] Globalization
+[Microsoft][ms-g11n] Globalization
 
 
 🌐
