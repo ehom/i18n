@@ -14,6 +14,7 @@
 [i18next]: https://www.i18next.com/
 [cldr-survey-tool]: http://cldr.unicode.org/index/survey-tool
 [global-sourcebook]: https://www.grcdi.nl/gsb/global%20sourcebook.html
+[goog-addr-data]: https://chromium-i18n.appspot.com/ssl-address/data
 
 [An Introduction to Writing Systems & Unicode][5]
 
@@ -55,5 +56,7 @@ Colors in Cultures ([Information is Beautiful][1])
 IBAN [Country Currency Codes](https://www.iban.com/currency-codes)
 
 Global [Sourcebook][global-sourcebook] for International Data Management
+
+Google's [Address Data Service][goog-addr-data]
 
 🌐
