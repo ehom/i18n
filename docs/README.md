@@ -12,6 +12,7 @@
 [ms-g11n]: https://docs.microsoft.com/en-us/globalization/
 [13]: https://www.w3.org/International/questions/qa-accept-lang-locales.en
 [i18next]: https://www.i18next.com/
+[cldr-survey-tool]: http://cldr.unicode.org/index/survey-tool
 
 [An Introduction to Writing Systems & Unicode][5]
 
@@ -25,7 +26,7 @@ ICU Locale [Explorer][icu-locale-explorer]
 [CLDR][cldr] 
 > Common Locale Data Repository
 
-CLDR [Survey Tool][cldr]
+CLDR [Survey Tool][cldr-survey-tool]
 
 PyICU ([Python ICU](https://pypi.org/project/PyICU/))
 
